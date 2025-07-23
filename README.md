@@ -17,6 +17,10 @@ complete with style, shape, props, and texture variation.
 
   - [Blender StackExchange post by Nathan](https://blender.stackexchange.com/questions/270490/how-to-fix-box-projected-normal-maps)
 
+### Palettes
+
+Palettes are from [lospec](https://lospec.com/), except for `dusty-space`, which was created by me for a game.
+
 ## Quick start
 
 The project can either:
