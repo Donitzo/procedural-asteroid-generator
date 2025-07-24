@@ -3,6 +3,8 @@
 This script procedurally generates animated asteroids in Blender,
 complete with style, shape, props, and texture variation.
 
+![Example](https://github.com/Donitzo/procedural-asteroid-generator/blob/main/images/blender_asteroids.png)
+
 ## Attribution
 
 ### FilterForge filters used to create textures:
@@ -49,6 +51,8 @@ To run the script:
   5. Click `Run Script` or press Alt+P to start generation.
   6. Wait for the script to finish. Check the system console for progress or errors.
   7. When done, open `preview.html` (in the output folder) to view all generated asteroids in a browser.
+
+![Configuration](https://github.com/Donitzo/procedural-asteroid-generator/blob/main/images/blender_config.png)
 
 ## Prop setup
 
