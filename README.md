@@ -15,7 +15,7 @@ complete with style, shape, props, and texture variation using triplanar shading
   - [Filter 7402](https://www.filterforge.com/filters/7402.html)
   - [Filter 13302](https://www.filterforge.com/filters/13302.html)
 
-### Triplanar normal calculation adapted from a 
+### Triplanar normal calculation adapted from:
 
   - [Blender StackExchange post by Nathan](https://blender.stackexchange.com/questions/270490/how-to-fix-box-projected-normal-maps)
 
