@@ -89,3 +89,7 @@ If edited, the base material (named `Asteroid`) can contain the following named 
   - Value node: `Triplanar Scale`
   - Value node: `Roughness`
   - RGB node: `Tint`
+
+## Feedback & Bug Reports
+
+If you find any bugs or have feedback, please [open an issue](https://github.com/Donitzo/procedural-asteroid-generator/issues) in the GitHub repository.
