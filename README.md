@@ -1,6 +1,7 @@
 # Procedural Asteroid Generator
 
 ![Example Asteroid](https://github.com/Donitzo/procedural-asteroid-generator/blob/main/images/example_asteroid.png)
+([More samples](https://donitz.itch.io/procedural-asteroid-generator))
 
 This script procedurally generates animated asteroids in Blender,
 complete with style, shape, props, and texture variation using triplanar shading.
