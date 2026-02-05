@@ -43,9 +43,12 @@ You can open it in any browser. The seed can be copied from existing asteroids t
   - `Extra Mesh Objects` Extension installed in Blender
 
 To install Pillow inside Blender's Python environment (on Windows):
+
+Download Pillow into a new directory:
 ```console
-"C:\Program Files\Blender Foundation\Blender 4.x\4.x\python\bin\python.exe" -m pip install Pillow --target="C:\Program Files\Blender Foundation\Blender 4.x\4.x\python\lib\site-packages"
+"C:\Program Files\Blender Foundation\Blender 4.x\4.x\python\bin\python.exe" -m pip install Pillow --target="C:\temporary_pillow_directory"
 ```
+Then manually copy the `PIL` and `pillow-x.x.x.dist-info` directories from `C:\temporary_pillow_directory` to `C:\Program Files\Blender Foundation\Blender 4.x\4.x\python\lib\site-packages`. This requires administrative privileges.
 
 To run the script:
   1. Open the `asteroid_generator.xxx.blend` file in Blender.
