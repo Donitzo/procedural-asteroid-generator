@@ -94,6 +94,10 @@ If edited, the base material (named `Asteroid`) can contain the following named 
   - Value node: `Roughness`
   - RGB node: `Tint`
 
+## Light setup
+
+Adjust the scene lighting as you see fit and it will be visible in the output.
+
 ## Feedback & Bug Reports
 
 If you find any bugs or have feedback, please [open an issue](https://github.com/Donitzo/procedural-asteroid-generator/issues) in the GitHub repository.
